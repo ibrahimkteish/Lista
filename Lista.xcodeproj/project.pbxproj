@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08BA6FC4260F83BD00F434C9 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BA6FC3260F83BD00F434C9 /* OnboardingView.swift */; };
 		08E555DE260F6800007896C6 /* ListaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E555DD260F6800007896C6 /* ListaApp.swift */; };
 		08E555E0260F6800007896C6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E555DF260F6800007896C6 /* ContentView.swift */; };
 		08E555E2260F6802007896C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08E555E1260F6802007896C6 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08BA6FC3260F83BD00F434C9 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		08E555DA260F6800007896C6 /* Lista.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lista.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08E555DD260F6800007896C6 /* ListaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaApp.swift; sourceTree = "<group>"; };
 		08E555DF260F6800007896C6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				08E555E1260F6802007896C6 /* Assets.xcassets */,
 				08E555E6260F6802007896C6 /* Info.plist */,
 				08E555E3260F6802007896C6 /* Preview Content */,
+				08BA6FC3260F83BD00F434C9 /* OnboardingView.swift */,
 			);
 			path = Lista;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08BA6FC4260F83BD00F434C9 /* OnboardingView.swift in Sources */,
 				08E555E0260F6800007896C6 /* ContentView.swift in Sources */,
 				08E555DE260F6800007896C6 /* ListaApp.swift in Sources */,
 			);
